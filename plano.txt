@@ -1,0 +1,10 @@
+
+#EXTM3U
+#EXTINF:-1
+https://vod-content.plexvideos.com/streams/62be178f5e5872e950ba14bc/1980bfc6-087a-4c7e-b522-5a64169f5f57/stream_1.m3u8
+#EXTINF:-2
+https://vod-content.plexvideos.com/streams/62be17785e5872e950b6cf97/539aa3e2-ba21-4f30-a5ee-3338fdaa0572/stream_4.m3u8
+#EXTINF:-3
+https://vod-content.plexvideos.com/streams/652b1ea20d5a0c411877b013/a629926a-2199-400c-94ce-84a94915554a/stream_3.m3u8
+#EXTINF:-4
+https://ddh1.hlsjs.ru/ddh1/premium717/tracks-v1a1/mono.m3u8
